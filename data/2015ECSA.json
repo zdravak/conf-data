@@ -93,7 +93,7 @@
             "ecsa_2015",
             "ecsa2015"
         ],
-        "URL": ""
+        "URL": "https://twitter.com/ECSA_2015"
     },
     "VenueInfo": {
         "Name": "Hotel Croatia",
@@ -133,12 +133,23 @@
     ],
     "Items": [
         {
-            "Title": "",
-            "Type": "",
+            "Title": "High-level Language Support for the Control of Reconfigurations in Component-based Architectures",
+            "Type": "Long paper",
             "Key": "",
-            "PersonsString": "",
+            "PersonsString": "fredericoalvaresdeoliveira, ericrutten, lionelseinturier",
             "AffiliationsString": "",
-            "Authors": "",
+            "Authors": "Frederico Alvares De Oliveira, Eric Rutten, Lionel Seinturier",
+            "Affiliations": "",
+            "Abstract": "",
+            "Award": ""
+        },
+        {
+            "Title": "Architectural Reasoning Support for Product-lines of Self-adaptive Software Systems - A Case Study",
+            "Type": "Long paper",
+            "Key": "",
+            "PersonsString": "nadeemabbas, jesperandersson",
+            "AffiliationsString": "",
+            "Authors": "Nadeem Abbas, Jesper Andersson",
             "Affiliations": "",
             "Abstract": "",
             "Award": ""
